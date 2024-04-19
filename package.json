@@ -23,7 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "install-server" : "cd backend && npm install",
-    "start-server" : "cd backend && nodemon index.js"
+    "start-server" : "cd backend && node index.js"
   },
   "eslintConfig": {
     "extends": [
